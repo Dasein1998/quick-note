@@ -1,6 +1,6 @@
 ;;; quick-note.el --- Single file note taking and searching -*- lexical-binding: t; -*-
 
-;; Author: Your Name <your.email@example.com>
+;; Author: Your Name <dasein1998@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: convenience, text, matching

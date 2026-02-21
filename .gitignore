@@ -1,0 +1,9 @@
+*.elc
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.tar
+*.log
+*-autoloads.el
+*-pkg.el
