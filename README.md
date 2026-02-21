@@ -1,6 +1,6 @@
 # Quick Note for Emacs
 
-Quick Note 是一个极简的 Emacs 单文件笔记插件。它借鉴了 Notational Velocity 和 Deft 的哲学，将“搜索”与“创建”无缝结合。结合 `orderless` 和现代补全框架（如 Vertico/Ivy），你可以实现多关键词边打字边过滤，有则跳转，无则立刻作为新笔记插入到文件开头。
+Quick Note 是一个极简的 Emacs 单文件笔记插件，由Gemini pro3.1生成。。它借鉴了 Notational Velocity 和 Deft 的哲学，将“搜索”与“创建”无缝结合。结合 `orderless` 和现代补全框架（如 Vertico/Ivy），你可以实现多关键词边打字边过滤，有则跳转，无则立刻作为新笔记插入到文件开头。
 
 ## 特性 (Features)
 - **单文件管理**：所有闪念和笔记集中在一个文件（默认支持 Org mode）。
