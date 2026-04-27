@@ -7,3 +7,4 @@
 *.log
 *-autoloads.el
 *-pkg.el
+*.qoder

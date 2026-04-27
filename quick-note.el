@@ -120,6 +120,7 @@
         
         (goto-char (point-min))
         (insert (format-time-string quick-note-prefix-format) 
+                "\n"
                 selection 
                 quick-note-suffix-format)
         (save-buffer)
